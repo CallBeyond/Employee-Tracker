@@ -18,7 +18,7 @@ Our assignment for Week 12 is to create an employee tracker that'll display depa
 
 ## Screenshots
 
-![App Screenshot](/assets/main.pnge)
+![App Screenshot](./assets/main.pnge)
 
 ## Credits
 
