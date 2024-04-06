@@ -1,8 +1,6 @@
 # Employee Tracker!
 
-Our assignment for Week 12 is to create an employee tracker that'll display department, managers, roles, salaries, etc. 
-
-## Table of Contents
+Our assignment for Week 12 is to create an employee tracker that'll display department, managers, roles, salaries, etc. ## Table of Contents
 
 - [Usage](#usage)
 - [Credits](#credits)
@@ -15,11 +13,12 @@ Our assignment for Week 12 is to create an employee tracker that'll display depa
 - mysql source both the seeds and schema.sql
 - npm start and enjoy!
 
+[Click here for the video!](https://youtu.be/h7TMUerngpc)
 
 
 ## Screenshots
 
-![App Screenshot](/assets/main.png)
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 ## Credits
 
